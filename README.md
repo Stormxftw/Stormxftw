@@ -8,7 +8,7 @@ I like turning messy workflows into tools people can inspect, run, and improve.
 
 - **[SlopLens](https://github.com/Stormxftw/SlopLens)** — A local dashboard for reviewing Codex and Claude Code projects, activity, and unfinished work.
 - **[H.Realms](https://github.com/Stormxftw/H.Realms)** — A Linux-first console for managing local game servers through Hermes, with reviewed operations, backups, and diagnostics. Currently an MVP / pre-release.
-- **[HermesStuff](https://github.com/Stormxftw/HermesStuff)** — Reusable Hermes Agent skills, starting with an evidence-focused workflow for investigating suspicious Linux activity.
+- **[T3 Code / Squadr experiment](https://github.com/Stormxftw/t3code/tree/experiment/squadr-command-field)** — Exploring an optional project and thread overview in a fork of [T3 Code](https://github.com/pingdotgg/t3code). Published work currently documents the design and Windows baseline.
 
 ## Where I'd like to contribute
 
